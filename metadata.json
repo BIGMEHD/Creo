@@ -1,0 +1,6 @@
+{
+  "name": "Creo",
+  "description": "Bilingual (English/Persian) offline-first YouTube Channel Management desktop application featuring Idea Vault, Script Writer, Channel Analytics, Content Calendar, and Goal Tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
